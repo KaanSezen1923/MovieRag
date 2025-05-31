@@ -197,6 +197,20 @@ uvicorn
 | `NEO4J_USER` | Neo4j database username | Yes |
 | `NEO4J_PASSWORD` | Neo4j database password | Yes |
 
+## Screenshoots
+
+![image](https://github.com/user-attachments/assets/68c7bc47-8967-45c4-ac5d-6b6dd9cdb3bc)
+
+![image](https://github.com/user-attachments/assets/b01061e9-ee2b-454e-8603-866e24c2b96d)
+
+![image](https://github.com/user-attachments/assets/2394b2ed-72e0-406d-b0b9-e41949002427)
+
+![image](https://github.com/user-attachments/assets/6743661e-b7f3-4cbe-9fbf-19afa5f93c1a)
+
+
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
